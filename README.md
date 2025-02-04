@@ -1,5 +1,5 @@
 # Feuille de route - Run #2
-Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conseillons de lire toutes les indications avant de vous lancer dans une secondes avanture! Gardez les indices pour quand vous pensez en avoir besoin. Nous sommes disponibles au 08 36 65 65 65.
+Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conseillons de lire toutes les ➡️ indications avant de vous lancer dans une secondes aventure! Gardez les ⚠️ indices pour quand vous pensez en avoir vraiment besoin. Nous sommes disponibles au 08 36 65 65 65.
 
 <details>
   <summary>➡️ Indication I</summary>
