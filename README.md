@@ -15,7 +15,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
   <img src="2.png" alt="Incidcation II">
   <details>
     <summary>⚠️ Indice</summary>
-    Cherche un autre accès au feu de Noiresouche et d’autres chemins s’ouvriront à toi
+    Cherche un autre accès au feu de Noiresouche et d’autres chemins s’ouvriront à toi.
   </details>
 </details>
 
@@ -35,7 +35,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 
 <details>
   <summary>➡️ Indication V</summary>
-  Le très grand tableau n’est pas un Picasso
+  Le très grand tableau n’est pas un Picasso.
 </details>
 
 <details>
@@ -43,7 +43,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
   <img src="6.png" alt="Incidcation VI">
   <details>
     <summary>⚠️ Indice 1</summary>
-    Gwenevere est trop belle pour être vraie
+    Gwenevere est trop belle pour être vraie.
   </details>
     <details>
     <summary>⚠️ Indice 2</summary>
@@ -54,5 +54,10 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 <details>
   <summary>➡️ Accès DLC</summary>
   <img src="dlc.png" alt="DLC"><br/>
-  Note: Quitout après l’hydre
+  Note: Quitout après l’hydre.
+</details>
+
+<details>
+  <summary>➡️ Tips I</summary>
+  La lecture des items est parfois primordiale.
 </details>
