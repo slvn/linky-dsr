@@ -1,14 +1,56 @@
-# Feuille de route - Seconde run - Dark Souls remastered
-Plusieurs indications pour encore plus d'amusement.
+# Feuille de route - Run #2
 
-## I
 <details>
   <summary>Indication I</summary>
   <img src="1.jpg" alt="Incidcation I">
-  ![image](https://slvn.github.io/linky-dsr/1.jpg)
-
   <details>
-    <summary>Indice I</summary>
+    <summary>Indice</summary>
     N'as-tu jamais voulu être un petit oeuf ?
+  </details>
+</details>
+
+<details>
+  <summary>Indication II</summary>
+  <img src="2.png" alt="Incidcation II">
+  <details>
+    <summary>Indice</summary>
+    Cherche un autre accès au feu de Noiresouche et d’autres chemins s’ouvriront à toi
+  </details>
+</details>
+
+<details>
+  <summary>Indication III</summary>
+  <img src="1.jpg" alt="Incidcation I">
+  <details>
+    <summary>Indice</summary>
+    N'as-tu jamais voulu être un petit oeuf ?
+  </details>
+</details>
+
+<details>
+  <summary>Indication IV</summary>
+  <img src="1.jpg" alt="Incidcation I">
+  <details>
+    <summary>Indice</summary>
+    Toc Toc ?
+  </details>
+</details>
+
+<details>
+  <summary>Indication V</summary>
+  Le très grand tableau n’est pas un Picasso
+</details>
+
+
+<details>
+  <summary>Indication VI</summary>
+  <img src="1.jpg" alt="Incidcation I">
+  <details>
+    <summary>Indice</summary>
+    Gwenevere est trop belle pour être vraie
+  </details>
+    <details>
+    <summary>Indice</summary>
+     ? --> Tu montes ou tu descends ?
   </details>
 </details>
