@@ -4,7 +4,7 @@ Plusieurs indications pour encore plus d'amusement.
 ## I
 <details>
   <summary>Indication I</summary>
-
+  <img src="1.jpg" alt="Incidcation I">
   ![image](https://slvn.github.io/linky-dsr/1.jpg)
 
   <details>
