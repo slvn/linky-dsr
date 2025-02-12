@@ -63,6 +63,6 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>➡️ Tips II 🆕</summary>
+  <summary>➡️ Tips II</summary>
   Le jeu récompense souvent l'observation.
 </details>
