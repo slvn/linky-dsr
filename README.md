@@ -34,7 +34,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>➡️ Indication V</summary>
+  <summary>✅ Indication V</summary>
   Le très grand tableau n’est pas un Picasso.
 </details>
 
