@@ -20,7 +20,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>➡️ Indication III</summary>
+  <summary>✅ Indication III</summary>
   <img src="3.png" alt="Incidcation III">
   <details>
     <summary>⚠️ Indice</summary>
