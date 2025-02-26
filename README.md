@@ -46,12 +46,12 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
     Gwenevere est trop belle pour être vraie.
   </details>
   <details>
-    <summary>⚠️ Indice 2</summary>
-     ? --> Tu montes ou tu descends ?
+    <summary>⚠️ Indice 2 🆕</summary>
+    <img src="6-3.png" alt="Indication VI - Indice 3"><br/>
   </details>
   <details>
-    <summary>⚠️ Indice 3 🆕</summary>
-    <img src="6-3.png" alt="Indication VI - Indice 3"><br/>
+    <summary>⚠️ Indice 3</summary>
+     ? --> Tu montes ou tu descends ?
   </details>
 </details>
 
