@@ -70,8 +70,3 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
   <summary>➡️ Astuce II</summary>
   Le jeu récompense souvent l'observation.
 </details>
-
-<details>
-  <summary>➡️ Astuce III 🆕</summary>
-  git gud :)
-</details>
