@@ -39,15 +39,19 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>➡️ Indication VI</summary>
+  <summary>➡️ Indication VI 🆕</summary>
   <img src="6.png" alt="Incidcation VI">
   <details>
     <summary>⚠️ Indice 1</summary>
     Gwenevere est trop belle pour être vraie.
   </details>
-    <details>
+  <details>
     <summary>⚠️ Indice 2</summary>
      ? --> Tu montes ou tu descends ?
+  </details>
+  <details>
+    <summary>⚠️ Indice 3 🆕</summary>
+    <img src="6-3.png" alt="Indication VI - Indice 3"><br/>
   </details>
 </details>
 
@@ -65,4 +69,9 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 <details>
   <summary>➡️ Astuce II</summary>
   Le jeu récompense souvent l'observation.
+</details>
+
+<details>
+  <summary>➡️ Astuce III 🆕</summary>
+  git gud :)
 </details>
