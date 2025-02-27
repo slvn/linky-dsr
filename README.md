@@ -29,7 +29,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>➡️ Indication IV</summary>
+  <summary>➡✅ Indication IV</summary>
   <img src="4.png" alt="Incidcation IV">
 </details>
 
@@ -39,14 +39,14 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>➡️ Indication VI 🆕</summary>
+  <summary>✅ Indication VI 🆕</summary>
   <img src="6.png" alt="Incidcation VI">
   <details>
     <summary>⚠️ Indice 1</summary>
     Gwenevere est trop belle pour être vraie.
   </details>
   <details>
-    <summary>⚠️ Indice 2 🆕</summary>
+    <summary>⚠️ Indice 2</summary>
     <img src="6-3.png" alt="Indication VI - Indice 3"><br/>
   </details>
   <details>
