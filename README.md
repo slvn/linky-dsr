@@ -39,7 +39,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>✅ Indication VI 🆕</summary>
+  <summary>✅ Indication VI</summary>
   <img src="6.png" alt="Incidcation VI">
   <details>
     <summary>⚠️ Indice 1</summary>
