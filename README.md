@@ -29,7 +29,7 @@ Libre à vous d'utiliser cette feuille de route comme il vous semble. Nous conse
 </details>
 
 <details>
-  <summary>➡✅ Indication IV</summary>
+  <summary>✅ Indication IV</summary>
   <img src="4.png" alt="Incidcation IV">
 </details>
 
